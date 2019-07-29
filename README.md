@@ -1,7 +1,7 @@
 # Seussology DB I
 
 ## Objective
-For this assignment you will be demonstrating your skills and understanding of SQL Queries by creating queries that create, read, update, and delete data from the Seussology Database.
+For this assignment you will be demonstrating your skills and understanding of SQL Queries by creating queries that read data from the Seussology Database.
 
 ## Database
 For this assignment you will be using the Seussology Database which is provided with repository as the [Seussology SQL File](seussology.sql).
